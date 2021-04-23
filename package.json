@@ -1,0 +1,25 @@
+{
+  "name": "coin-radio",
+  "version": "1.0.0",
+  "description": "A coinbase-pro market reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinescudan/coin-radio.git"
+  },
+  "keywords": [
+    "coinbase-pro"
+  ],
+  "author": "Dan Marinescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinescudan/coin-radio/issues"
+  },
+  "homepage": "https://github.com/marinescudan/coin-radio#readme",
+  "dependencies": {
+    "coinbase-pro": "^0.9.0"
+  }
+}
